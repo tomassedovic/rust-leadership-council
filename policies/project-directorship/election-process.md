@@ -25,8 +25,6 @@ The purpose of this policy is to outline a clear and efficient process for elect
         * Tracking, reviewing, and documenting the effectiveness of the process.
 * Review the [PD role description](https://github.com/rust-lang/leadership-council/blob/main/roles/rust-foundation-project-director.md).
 
-The facilitator role is time-consuming and may be better suited for someone already being paid to work on the Project. A Project Manager is a good option, as this role fits well within their responsibilities.
-
 The Council can also ask the Foundation to provide a staff member, but that should be done well in advance (3-4 months to make sure they can find someone who will have the time).
 
 ### Pre-Meeting Coordination
@@ -60,7 +58,7 @@ The Council can also ask the Foundation to provide a staff member, but that shou
     * The facilitator will share the names of all nominees with the Foundation, who will set up an online election poll.
         * In the past rounds, the poll was set up by @BecRumbul.
         * The poll **doesn't allow changing one's vote** after it's cast. The Council should verify access, but they must *only cast the vote at the appropriate time* during the Election Meeting.
-* Schedule a group call with the nominated candidates and existing Project Directors
+* Schedule a group call with the nominated candidates and existing Project Directors.
     * The PDs can provide details about the role and answer the candidates' questions.
     * The facilitator will schedule this call after the nominations are closed.
 
@@ -84,9 +82,10 @@ The facilitator will create a HackMD document containing:
 
 The Preferences section looks like this:
 
-`-1`: I have objections
-`0`: Not my choice, but no objections
-`1`: I prefer this candidate
+`-1`: Strong objection.
+`-0`: Not my preference, but no objection.
+`+0`: OK by me.
+`+1`: Full support.
 
 |      | Candidate 1 | Candidate 2 | Candidate 3 | Candidate 4 | Candidate 5 |
 |------|-------------|-------------|-------------|-------------|-------------|
@@ -104,11 +103,9 @@ The first column lists all the LC members and stand-ins who cast the votes. The 
 
 Each Council member will share their (non-binding) preference on each candidate in isolation. The actual discussion and election process is described in the "Election Meeting" section below.
 
-NOTE: The facilitator must ensure that the document is accessible to every voting member and *no one else*. In particular, if an existing Council member is among the candidates, the document cannot be created under the Leadership Council HackMD organisation.
+NOTE: The facilitator must ensure that the document is accessible to every voting member and *no one else*. In particular, the document cannot be created under the Leadership Council HackMD organization.
 
 For example, in 2025, the facilitator created a document in their personal account, set the "Read" and "Write" Note permissions to "Signed-in users" and took care to only share the link with the voting members. After the meeting, they set the permission to "Only me".
-
-This is to work around the fact that our free HackMD accounts don't allow sharing a private note with more than three other people. The facilitator should investigate other solutions ahead-of-time.
 
 
 ### Election Meeting
@@ -157,7 +154,7 @@ subcommittee to work on the issue and report back to the Council.
 
 There can be **at most one** Project Director employed by a company that's a [*corporate member* of the Foundation](https://rustfoundation.org/members/)[^3][^4].
 
-Affiliation limits only apply to companies that are corporate (Platinum, Gold, or Silver) members.
+Affiliation limits only apply to companies that are corporate (Platinum, Gold, or Silver) members ([Section 4.3(g) of the bylaws](https://rustfoundation.org/policy/bylaws/#section-4.3-nomination%2C-election-and-term-of-office-of-directors)).
 
 ### Conflicts of Interest
 
